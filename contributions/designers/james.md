@@ -8,3 +8,4 @@
 4. i redesigned the tablet view too so that my fellow designers could follow https://www.figma.com/file/bKjRgfTj5TQw3aE2EFhHlY/tablet_view_daft?node-id=0%3A1 
 5. i created the color system for ICON CITY https://www.figma.com/file/z4V75Up3EPjzqG1oSrbrzP/Color_system?node-id=0%3A1
 6. i made sure i managed the board and also resolved conflicts between designers that were angry that someone changed their designs. 
+7. i and maryam worked closely on deivering the finish touches on the landing page. the link is on this file
