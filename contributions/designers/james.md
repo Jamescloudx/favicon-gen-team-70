@@ -10,3 +10,4 @@
 6. i made sure i managed the board and also resolved conflicts between designers that were angry that someone changed their designs. 
 7. i and maryam worked closely on deivering the finish touches on the landing page. the link is on this file
 8. I also made some contributions on the user flow made by my team, i had to tell them that we need to streamline it down to acheiving the user need, rather than making it so long https://www.figma.com/file/asFleGyAuPu8273RCWsLS7/Flow_chat?node-id=0%3A1
+9. i also solved an issue assigned to me by my team lead https://github.com/zuri-training/favicon-gen-team-70/issues/1
